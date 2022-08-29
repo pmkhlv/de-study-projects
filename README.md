@@ -1,0 +1,3 @@
+# de-study-projects
+:floppy_disk: Projects made during the learning of DS in Yandex Praktikum.
+This repository contains my study projects. New projects coming soon...
